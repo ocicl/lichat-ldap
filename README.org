@@ -2,8 +2,8 @@
 
 LDAP authentication for the Lichat server
 
-|---------+--------------------------------------------------|
+|---------+----------------------------------------------------|
 | source  | git:https://codeberg.org/shirakumo/lichat-ldap.git |
-| commit  | 74327e3                                          |
-| systems | lichat-ldap                                      |
-|---------+--------------------------------------------------|
+| commit  | 129f7ed                                            |
+| systems | lichat-ldap                                        |
+|---------+----------------------------------------------------|
