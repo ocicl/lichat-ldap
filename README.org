@@ -7,3 +7,4 @@ LDAP authentication for the Lichat server
 | commit  | 10da39d                                            |
 | systems | lichat-ldap                                        |
 |---------+----------------------------------------------------|
+ 
